@@ -10,7 +10,7 @@
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
             {% include figure.html
             path=entry_path
-            class="preview z-depth-1 rounded"
+            class="image-fluid z-depth-1 rounded"
             zoomable=true
             alt=entry.preview -%}
           {%- endif -%}
