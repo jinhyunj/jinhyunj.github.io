@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to ICIP 2021.
+:scroll: 1 paper is accepted to ICIP 2021.
