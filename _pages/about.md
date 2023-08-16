@@ -16,3 +16,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student and a member of [Digital Image Media Lab](http://diml.yonsei.ac.kr/) at [Yonsei University](https://ee.yonsei.ac.kr/ee/index.do), South Korea.
+I am broadly interested in computer vision and deep learning.
+In particular, my research interest includes video understanding, vision-language models, and generative models.
