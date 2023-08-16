@@ -12,7 +12,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social:  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student and a member of [Digital Image Media Lab](http://diml.yonsei.ac.kr/) at [Yonsei University](https://ee.yonsei.ac.kr/ee/index.do), South Korea.
