@@ -1,6 +1,6 @@
 ---
 layout: about
-title: JinhyunJ
+title: Jinhyun
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
