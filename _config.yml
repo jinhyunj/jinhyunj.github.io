@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Jinhyun]
-  first_name: [Jang]
+  last_name: [Jang]
+  first_name: [Jinhyun]
 
   style: apa
   locale: en
