@@ -19,3 +19,5 @@ I am a Ph.D. student and a member of [Digital Image Media Lab](http://diml.yonse
 
 I am broadly interested in computer vision and deep learning.
 In particular, my research interest includes video understanding, vision-language models, and generative models.
+
+For more, check out my [CV](http://).
