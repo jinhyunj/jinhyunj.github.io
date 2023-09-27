@@ -20,4 +20,4 @@ I am a Ph.D. student at [Yonsei University](https://ee.yonsei.ac.kr/ee/index.do)
 I am broadly interested in computer vision and deep learning.
 In particular, my research interest includes vision-language models, object detection, video understanding, and generative models.
 
-For more, check out my [CV](jinhyun_cv.pdf).
+For more, check out my [CV](assets/pdf/jinhyun_cv.pdf).
